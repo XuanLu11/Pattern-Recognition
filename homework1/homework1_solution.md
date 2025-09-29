@@ -206,9 +206,3 @@ $$ \frac{d}{d\lambda}E_{p_\lambda}[f] = -\operatorname{Var}_{p_\lambda}(f) \le 0
 - Python 生态（如 `scikit-learn`, `cvxpy`, `scipy.optimize`）为压缩感知实验和应用提供了丰富工具。
 
 ---
-
-#### 5. 总结
-
-- 教程很好地将压缩感知的理论与 Python 实践结合，帮助理解 $\ell_1$ 优化在信号恢复中的作用。
-- 通过动手实验，更直观地体会了“少量观测+稀疏性假设=高质量重建”的核心思想。
-
